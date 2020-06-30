@@ -1,0 +1,22 @@
+.slide .carousel-inner {
+
+    width: 100% !important;
+    height: 50vh;
+    object-fit: contain;
+}
+
+.slide .carousel-inner-related {
+
+    width: 100% !important;
+    height:30vh;
+    object-fit: contain;
+}
+
+.productcard_prod-detail {
+    color: #C60;
+    font-weight: bold;
+}
+
+.productcard_in-stock {
+    margin-bottom: .3rem
+}

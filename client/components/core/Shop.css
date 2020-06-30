@@ -1,0 +1,15 @@
+.reset-button {
+    min-width: 120px;
+    text-align: center;
+    padding-bottom: unset;
+}
+
+.search-size { 
+    width: 100%;
+    max-width: 1024px;
+    padding-bottom: unset;
+}
+
+.icon-margin {
+    margin-right: 6px;
+}

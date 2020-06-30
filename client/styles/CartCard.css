@@ -1,0 +1,40 @@
+.cartcard {
+    border-radius: 0;
+    border: .1rem solid rgba(0, 0, 0, .075);
+
+    box-shadow: 0 0 .8rem rgba(0, 0, 0, .075);
+
+
+  }
+  
+  .cartcard h4 {
+    font-weight: 700;
+  }
+  .cartcard h5 {
+    color: #1ebba3;
+  }
+  .cartcard p {
+
+    border-top: .1rem solid rgba(0, 0, 0, .1);
+
+    border-bottom: .1rem solid rgba(0, 0, 0, .1);
+
+    padding: 1rem;
+    margin: 1rem 0 1.5rem;
+  }
+  
+
+  .cartcard svg.svg-inline--fa {
+    color: #1ebba3!important;
+    font-size: 1.3rem;
+    width: 2rem;
+  }
+  
+
+  .cartcard svg.svg-inline--fa:hover {
+    color: #6c757d!important;
+  }
+
+  .cartcard .name {
+    font-weight: bold;
+}
